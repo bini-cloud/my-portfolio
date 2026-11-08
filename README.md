@@ -62,7 +62,7 @@ A productivity application for organizing and tracking tasks.
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Bini-Cloud
 - Portfolio: Coming Soon
 - LinkedIn: Coming Soon
 
